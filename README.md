@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Munir</h1>
-<h3 align="center">🚀 AI & Machine Learning Enthusiast | Python Developer</h3>
+<h3 align="center">🚀 AI & Machine Learning Enthusiast | Python Developer | Web Development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Smart+Solutions+🚀;Always+Learning+New+Things" />
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 💻 Passionate about **AI, Machine Learning & Python**
 - 🤖 Working on real-world AI projects
-- 📊 Love Data Science & Deep Learning
+- 📊 Data Science & Deep Learning
 - 🌱 Currently learning advanced AI models
 - ⚡ Turning ideas into intelligent systems
 
