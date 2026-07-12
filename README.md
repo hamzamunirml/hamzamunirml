@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hamza Munir</h1>
-<h3 align="center">AI/ML Engineer | Building Production-Ready ML Systems (Classification, CV, NLP) | BS AI @ KFUEIT</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hamza%20Munir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20BS%20AI%20%40%20KFUEIT&descAlignY=56&descSize=18&descColor=ffffff" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F700&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%2B+NLP+%2B+Deep+Learning;Building+Real-World+ML+Systems;Currently%3A+ML+Intern+%40+SoftCr8ors" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamzamunirml&color=blueviolet&style=flat&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/hamzamunirml?label=Followers&style=flat&color=blueviolet" />
 </p>
 
 ---
@@ -42,12 +48,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzamunirml&show_icons=true&theme=radical&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzamunirml&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamunirml&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamunirml&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamunirml&layout=compact&theme=radical&hide=jupyter%20notebook" />
 </p>
 
 ---
@@ -80,6 +86,29 @@
 
 ---
 
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Amazing+Together!+🚀" />
+  <img src="https://raw.githubusercontent.com/hamzamunirml/hamzamunirml/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animation" width="100%" />
 </p>
+
+> ⚙️ This animation is generated automatically by a GitHub Action — see setup note at the bottom of this file.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=FF69B4&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Let's+Build+Something+Amazing+%F0%9F%9A%80" />
+</p>
+
+<!--
+SETUP NOTE — Contribution Snake:
+1. In this repo (hamzamunirml/hamzamunirml), go to Settings → Actions → General → enable "Read and write permissions".
+2. Add the file .github/workflows/snake.yml (provided separately) to this repo.
+3. Push the change — the Action runs automatically and creates an "output" branch with the animated SVG.
+4. The <img> src above already points to that output branch, so no further edits needed once the Action runs once.
+-->
+
