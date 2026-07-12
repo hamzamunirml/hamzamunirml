@@ -48,12 +48,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzamunirml&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=hamzamunirml&show_icons=true&theme=radical" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamunirml&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamunirml&layout=compact&theme=radical&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hamzamunirml&layout=compact&theme=radical&hide=jupyter%20notebook" />
 </p>
 
 ---
@@ -111,4 +111,3 @@ SETUP NOTE — Contribution Snake:
 3. Push the change — the Action runs automatically and creates an "output" branch with the animated SVG.
 4. The <img> src above already points to that output branch, so no further edits needed once the Action runs once.
 -->
-
